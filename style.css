@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+body {
+  text-align: center;
+}
+
+h6 {
+  font-size: 0.9rem;
+}
+
+p {
+  font-size: 0.8rem;
+  text-align: left;
+}
+
+.lyrics {
+  text-align: center;
+  display: inline-block;
+}
